@@ -7,4 +7,6 @@ frase_favorita="Nunca dejes de aprender"
 #Mostramos la informacion en consola
 print("Nombre:",nombre)
 print("Edad:",edad)
+print("Pais:",pais)
+print("Frase_favorita:",frase_favorita)
 
