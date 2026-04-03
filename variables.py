@@ -5,5 +5,6 @@ edad = 23
 pais = "Uruguay"
 frase_favorita="Nunca dejes de aprender"
 #Mostramos la informacion en consola
-print(nombre)
+print("Nombre:",nombre)
+print("Edad:",edad)
 
